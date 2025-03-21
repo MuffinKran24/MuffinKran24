@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuffinKran24
+## 👋 Hi, I’m @MuffinKran24
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++
 - 🚩 I want to break free from Windows
