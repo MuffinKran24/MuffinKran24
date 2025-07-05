@@ -7,9 +7,10 @@
 
 Me when c pointer:
 
-https://tenor.com/view/crying-emoji-dies-gif-21956120
 
 <!---
 MuffinKran24/MuffinKran24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+`![Alt Text](https://media1.tenor.com/m/9PTGVf4BLwYAAAAd/crying-emoji-dies.gif)`
