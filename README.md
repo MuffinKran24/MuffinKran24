@@ -2,7 +2,7 @@
 - I’m interested in game development
 - I’m currently learning Rust
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuffinKran24&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuffinKran24&show_icons=true&theme=transparent)
 
 <!---
 MuffinKran24/MuffinKran24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
