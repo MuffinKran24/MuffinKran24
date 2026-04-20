@@ -1,6 +1,6 @@
 # Muffin (MuffinKran24)
-##### - I’m interested in embedded systems
-##### - I like low-level programming
+### - I’m interested in embedded systems
+### - I like low-level programming
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuffinKran24&show_icons=true&theme=gruvbox)
 
