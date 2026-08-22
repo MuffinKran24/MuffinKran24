@@ -1,8 +1,9 @@
-# Muffin (MuffinKran24)
-- I’m interested in embedded systems
-- I like low-level programming
+# Muffin
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuffinKran24&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuffinKran24&langs_count=8&theme=gruvbox&layout=donut&hide=Visual%20Basic%206.0%0A)](https://github.com/anuraghazra/github-readme-stats)
+I'm a 17 years old computer enthusiast with love for low-level programming
 
-[<img src="assets/damn.png">](https://muffin009.neocities.org){:target="_blank"}
+I also tried out webdesign a little bit and learned some css. 
+here is a link to my own little [website on neocities](https://muffin009.neocities.org)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MuffinKran24&show_icons=true&disable_animations=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=MuffinKran24&show_icons=true&disable_animations=true&theme=gruvbox)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=MuffinKran24&layout=compact&langs_count=6&disable_animations=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=MuffinKran24&layout=compact&langs_count=6&disable_animations=true&theme=gruvbox)
